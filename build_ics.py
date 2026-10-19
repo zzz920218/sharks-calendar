@@ -98,7 +98,7 @@ def description_of(m, generated_at) -> str:
     lines.append(f'开球时间：北京时间 {human_date(m["date_local"])} {m["time_local"]}')
     lines.append("本日历时间以 UTC 存储，手机/电脑会按所在时区自动换算成本地时间。")
     lines.append("赛程、比分每日自动同步自 CBA 官网（cbaleague.com），如有调整以官方为准。")
-    lines.append(f"最后同步：{generated_at}")
+    lines.append(f"最后同步：{generated_at}（北京时间）")
     lines.append(f'官方比赛页：{m["source_url"]}')
     return "\n".join(lines)
 
@@ -138,7 +138,7 @@ def build(snapshot: dict, out_path: str):
     counts = snapshot.get("counts", {})
     desc = (f'上海久事大鲨鱼 2026-2027 赛季全部比赛（季前赛、常规赛、俱乐部杯、季后赛），'
             f'含对阵、场馆、开球时间与比分；每日自动同步自 CBA 官网。'
-            f'最后同步 {generated}')
+            f'最后同步 {generated}（北京时间）')
     header = [
         "BEGIN:VCALENDAR",
         "PRODID:-//E-DIARY//E-DIARY 1.0//EN",

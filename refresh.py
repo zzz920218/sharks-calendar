@@ -31,7 +31,7 @@ LOG = "refresh.log"
 
 
 def log(msg: str):
-    line = f"[{dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {msg}"
+    line = f"[{dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S')}] {msg}"
     print(line)
     with open(LOG, "a", encoding="utf-8") as f:
         f.write(line + "\n")
@@ -86,7 +86,7 @@ def push_gist(config):
 
 def write_status(ok, matches, extra=None):
     status = {
-        "last_run": dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_run": dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S"),
         "ok": ok,
         "matches": matches,
         "ics": ICS,

@@ -263,7 +263,7 @@ def main(out_path="matches.json"):
     matches = merge(league, cup)
     payload = {
         "generated_at": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "generated_at_local": dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "generated_at_local": dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S"),
         "team": {"id": TEAM_ID, "name": TEAM_NAME, "season": "2026-2027"},
         "source": "https://www.cbaleague.com/",
         "counts": {},
