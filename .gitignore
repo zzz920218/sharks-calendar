@@ -1,0 +1,14 @@
+# 本地私有文件（含 token），绝不入库
+config.json
+refresh.log
+status.json.bak
+launchd-*.out
+launchd-*.err
+__pycache__/
+*.pyc
+.DS_Store
+
+# 由 refresh.py 生成，但需要通过 GitHub Actions 提交，因此这里不忽略：
+# public/shanghai-sharks-2026-2027.ics
+# matches.json
+# status.json

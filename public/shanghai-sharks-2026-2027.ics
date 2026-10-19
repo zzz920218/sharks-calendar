@@ -1,0 +1,1591 @@
+BEGIN:VCALENDAR
+PRODID:-//E-DIARY//E-DIARY 1.0//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:上海大鲨鱼 2026-2027 赛季
+X-WR-CALDESC:上海久事大鲨鱼 2026-2027 赛季全部比赛（季前赛
+ 、常规赛、俱乐部杯、季后赛），含对阵、场馆、开球
+ 时间与比分；每日自动同步自 CBA 官网。最后同步 2026-10-
+ 20 00:15:05
+X-WR-TIMEZONE:Asia/Shanghai
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:高县赛区体育馆（场馆待定）\, 四川宜宾高县
+DTSTART:20261009T113000Z
+DTEND:20261009T133000Z
+SUMMARY:🏀 上海久事 119-113 辽宁本钢（季前赛·主场·胜）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110447@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季季前赛（高县站）\n最终比分：
+ 上海久事 119-113 辽宁本钢，上海主场胜\n比赛场馆：高县
+ 赛区体育馆（场馆待定）（四川宜宾高县）\n开球时间：
+ 北京时间 2026 年 10 月 9 日 19:30\n本日历时间以 UTC 存储，
+ 手机/电脑会按所在时区自动换算成本地时间。\n赛程、
+ 比分每日自动同步自 CBA 官网（cbaleague.com），如有调整
+ 以官方为准。\n最后同步：2026-10-20 00:15:05\n官方比赛页：
+ https://www.cbaleague.com/data/#/matchDetail/100110447
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:高县赛区体育馆（场馆待定）\, 四川宜宾高县
+DTSTART:20261010T113000Z
+DTEND:20261010T133000Z
+SUMMARY:🏀 四川锦城 74-89 上海久事（季前赛·客场·胜）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110449@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季季前赛（高县站）\n最终比分：
+ 四川锦城 74-89 上海久事，上海客场胜\n比赛场馆：高县
+ 赛区体育馆（场馆待定）（四川宜宾高县）\n开球时间：
+ 北京时间 2026 年 10 月 10 日 19:30\n本日历时间以 UTC 存储
+ ，手机/电脑会按所在时区自动换算成本地时间。\n赛程
+ 、比分每日自动同步自 CBA 官网（cbaleague.com），如有调
+ 整以官方为准。\n最后同步：2026-10-20 00:15:05\n官方比赛页
+ ：https://www.cbaleague.com/data/#/matchDetail/100110449
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:高县赛区体育馆（场馆待定）\, 四川宜宾高县
+DTSTART:20261011T070000Z
+DTEND:20261011T090000Z
+SUMMARY:🏀 上海久事 109-93 福建晋江文旅（季前赛·主场·
+ 胜）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110450@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季季前赛（高县站）\n最终比分：
+ 上海久事 109-93 福建晋江文旅，上海主场胜\n比赛场馆：
+ 高县赛区体育馆（场馆待定）（四川宜宾高县）\n开球时
+ 间：北京时间 2026 年 10 月 11 日 15:00\n本日历时间以 UTC 
+ 存储，手机/电脑会按所在时区自动换算成本地时间。\n
+ 赛程、比分每日自动同步自 CBA 官网（cbaleague.com），如
+ 有调整以官方为准。\n最后同步：2026-10-20 00:15:05\n官方比
+ 赛页：https://www.cbaleague.com/data/#/matchDetail/100110450
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261016T113500Z
+DTEND:20261016T133500Z
+SUMMARY:🏀 上海久事 102-68 深圳马可波罗（主场·胜）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110655@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 1 轮（第一阶段）\n最
+ 终比分：上海久事 102-68 深圳马可波罗，上海主场胜\n比
+ 赛场馆：上海体育馆（上海）\n开球时间：北京时间 2026 
+ 年 10 月 16 日 19:35\n本日历时间以 UTC 存储，手机/电脑会
+ 按所在时区自动换算成本地时间。\n赛程、比分每日自动
+ 同步自 CBA 官网（cbaleague.com），如有调整以官方为准。\n
+ 最后同步：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleagu
+ e.com/data/#/matchDetail/100110655
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:国家奥林匹克体育中心体育馆\, 北京
+DTSTART:20261019T113500Z
+DTEND:20261019T133500Z
+SUMMARY:🏀 北京控股 92-105 上海久事（客场·胜）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110739@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 2 轮（第一阶段）\n最
+ 终比分：北京控股 92-105 上海久事，上海客场胜\n比赛场
+ 馆：国家奥林匹克体育中心体育馆（北京）\n开球时间：
+ 北京时间 2026 年 10 月 19 日 19:35\n本日历时间以 UTC 存储
+ ，手机/电脑会按所在时区自动换算成本地时间。\n赛程
+ 、比分每日自动同步自 CBA 官网（cbaleague.com），如有调
+ 整以官方为准。\n最后同步：2026-10-20 00:15:05\n官方比赛页
+ ：https://www.cbaleague.com/data/#/matchDetail/100110739
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:山西体育中心汾酒体育馆\, 太原
+DTSTART:20261022T113500Z
+DTEND:20261022T133500Z
+SUMMARY:🏀 山西汾酒 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110839@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 3 轮（第一阶段）\n上
+ 海久事客场对阵山西汾酒\n比赛场馆：山西体育中心汾酒
+ 体育馆（太原）\n开球时间：北京时间 2026 年 10 月 22 日 
+ 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自
+ 动换算成本地时间。\n赛程、比分每日自动同步自 CBA 官
+ 网（cbaleague.com），如有调整以官方为准。\n最后同步：20
+ 26-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matc
+ hDetail/100110839
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261024T113500Z
+DTEND:20261024T133500Z
+SUMMARY:🏀 上海久事 vs 福建晋江文旅（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110899@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 4 轮（第一阶段）\n上
+ 海久事主场对阵福建晋江文旅\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2026 年 10 月 24 日 19:35\n本
+ 日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
+ 成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
+ 0:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10
+ 0110899
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261026T113500Z
+DTEND:20261026T133500Z
+SUMMARY:🏀 上海久事 vs 广东东阳光（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110946@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 5 轮（第一阶段）\n上
+ 海久事主场对阵广东东阳光\n比赛场馆：上海体育馆（上
+ 海）\n开球时间：北京时间 2026 年 10 月 26 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0946
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:义乌梅湖体育中心体育馆\, 义乌
+DTSTART:20261030T113500Z
+DTEND:20261030T133500Z
+SUMMARY:🏀 浙江稠州金租 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110973@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 6 轮（第一阶段）\n上
+ 海久事客场对阵浙江稠州金租\n比赛场馆：义乌梅湖体育
+ 中心体育馆（义乌）\n开球时间：北京时间 2026 年 10 月 3
+ 0 日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时
+ 区自动换算成本地时间。\n赛程、比分每日自动同步自 CB
+ A 官网（cbaleague.com），如有调整以官方为准。\n最后同步
+ ：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#
+ /matchDetail/100110973
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261101T113500Z
+DTEND:20261101T133500Z
+SUMMARY:🏀 上海久事 vs 南京同曦宙光（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110979@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 7 轮（第一阶段）\n上
+ 海久事主场对阵南京同曦宙光\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2026 年 11 月 1 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0979
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261103T113500Z
+DTEND:20261103T133500Z
+SUMMARY:🏀 上海久事 vs 长白山恩都里（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110998@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 8 轮（第一阶段）\n上
+ 海久事主场对阵长白山恩都里\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2026 年 11 月 3 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0998
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:洪山体育馆\, 武汉
+DTSTART:20261119T120000Z
+DTEND:20261119T140000Z
+SUMMARY:🏀 上海久事 vs 四川锦城（俱乐部杯·主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100111265@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季俱乐部杯·小组赛（B组上半区）
+ \n上海久事主场对阵四川锦城\n比赛场馆：洪山体育馆（
+ 武汉）\n开球时间：北京时间 2026 年 11 月 19 日 20:00\n本
+ 日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
+ 成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
+ 0:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10
+ 0111265
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:洪山体育馆\, 武汉
+DTSTART:20261120T120000Z
+DTEND:20261120T140000Z
+SUMMARY:🏀 青岛崂山啤酒 vs 上海久事（俱乐部杯·客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100111271@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季俱乐部杯·小组赛（B组上半区）
+ \n上海久事客场对阵青岛崂山啤酒\n比赛场馆：洪山体育
+ 馆（武汉）\n开球时间：北京时间 2026 年 11 月 20 日 20:00
+ \n本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
+ 算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
+ baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
+ 0 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail
+ /100111271
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:乌鲁木齐奥体中心体育馆\, 乌鲁木齐
+DTSTART:20261204T120000Z
+DTEND:20261204T140000Z
+SUMMARY:🏀 新疆广汇能源 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100111019@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 9 轮（第二阶段）\n上
+ 海久事客场对阵新疆广汇能源\n比赛场馆：乌鲁木齐奥体
+ 中心体育馆（乌鲁木齐）\n开球时间：北京时间 2026 年 12
+  月 4 日 20:00\n本日历时间以 UTC 存储，手机/电脑会按所
+ 在时区自动换算成本地时间。\n赛程、比分每日自动同步
+ 自 CBA 官网（cbaleague.com），如有调整以官方为准。\n最后
+ 同步：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/
+ data/#/matchDetail/100111019
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:东丽体育馆\, 天津
+DTSTART:20261207T113500Z
+DTEND:20261207T133500Z
+SUMMARY:🏀 天津先行者 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110600@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 10 轮（第二阶段）\n上
+ 海久事客场对阵天津先行者\n比赛场馆：东丽体育馆（天
+ 津）\n开球时间：北京时间 2026 年 12 月 7 日 19:35\n本日历
+ 时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
+ 地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
+ com），如有调整以官方为准。\n最后同步：2026-10-20 00:15:0
+ 5\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011060
+ 0
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261209T113500Z
+DTEND:20261209T133500Z
+SUMMARY:🏀 上海久事 vs 山西汾酒（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110642@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 11 轮（第二阶段）\n上
+ 海久事主场对阵山西汾酒\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2026 年 12 月 9 日 19:35\n本日历时
+ 间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
+ 时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
+ ），如有调整以官方为准。\n最后同步：2026-10-20 00:15:05\n
+ 官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110642
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:山东高速篮球馆\, 济南
+DTSTART:20261211T113500Z
+DTEND:20261211T133500Z
+SUMMARY:🏀 山东高速 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110659@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 12 轮（第二阶段）\n上
+ 海久事客场对阵山东高速\n比赛场馆：山东高速篮球馆（
+ 济南）\n开球时间：北京时间 2026 年 12 月 11 日 19:35\n本
+ 日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
+ 成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
+ 0:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10
+ 0110659
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:江宁体育中心体育馆\, 南京
+DTSTART:20261213T113500Z
+DTEND:20261213T133500Z
+SUMMARY:🏀 南京同曦宙光 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110685@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 13 轮（第二阶段）\n上
+ 海久事客场对阵南京同曦宙光\n比赛场馆：江宁体育中心
+ 体育馆（南京）\n开球时间：北京时间 2026 年 12 月 13 日 
+ 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自
+ 动换算成本地时间。\n赛程、比分每日自动同步自 CBA 官
+ 网（cbaleague.com），如有调整以官方为准。\n最后同步：20
+ 26-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matc
+ hDetail/100110685
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261216T113500Z
+DTEND:20261216T133500Z
+SUMMARY:🏀 上海久事 vs 宁波町渥（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110742@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 14 轮（第二阶段）\n上
+ 海久事主场对阵宁波町渥\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2026 年 12 月 16 日 19:35\n本日历
+ 时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
+ 地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
+ com），如有调整以官方为准。\n最后同步：2026-10-20 00:15:0
+ 5\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011074
+ 2
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:江宁体育中心体育馆\, 南京
+DTSTART:20261218T113500Z
+DTEND:20261218T133500Z
+SUMMARY:🏀 南京同曦宙光 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110769@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 15 轮（第二阶段）\n上
+ 海久事客场对阵南京同曦宙光\n比赛场馆：江宁体育中心
+ 体育馆（南京）\n开球时间：北京时间 2026 年 12 月 18 日 
+ 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自
+ 动换算成本地时间。\n赛程、比分每日自动同步自 CBA 官
+ 网（cbaleague.com），如有调整以官方为准。\n最后同步：20
+ 26-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matc
+ hDetail/100110769
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261220T113500Z
+DTEND:20261220T133500Z
+SUMMARY:🏀 上海久事 vs 江苏肯帝亚（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110793@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 16 轮（第二阶段）\n上
+ 海久事主场对阵江苏肯帝亚\n比赛场馆：上海体育馆（上
+ 海）\n开球时间：北京时间 2026 年 12 月 20 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0793
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261223T113500Z
+DTEND:20261223T133500Z
+SUMMARY:🏀 上海久事 vs 四川锦城（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110864@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 17 轮（第二阶段）\n上
+ 海久事主场对阵四川锦城\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2026 年 12 月 23 日 19:35\n本日历
+ 时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
+ 地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
+ com），如有调整以官方为准。\n最后同步：2026-10-20 00:15:0
+ 5\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011086
+ 4
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261225T113500Z
+DTEND:20261225T133500Z
+SUMMARY:🏀 上海久事 vs 山东高速（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110893@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 18 轮（第二阶段）\n上
+ 海久事主场对阵山东高速\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2026 年 12 月 25 日 19:35\n本日历
+ 时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
+ 地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
+ com），如有调整以官方为准。\n最后同步：2026-10-20 00:15:0
+ 5\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011089
+ 3
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20261227T113500Z
+DTEND:20261227T133500Z
+SUMMARY:🏀 上海久事 vs 新疆广汇能源（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110575@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 19 轮（第二阶段）\n上
+ 海久事主场对阵新疆广汇能源\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2026 年 12 月 27 日 19:35\n本
+ 日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
+ 成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
+ 0:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10
+ 0110575
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:国信体育中心钻石体育馆\, 青岛
+DTSTART:20261230T113500Z
+DTEND:20261230T133500Z
+SUMMARY:🏀 青岛崂山啤酒 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110621@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 20 轮（第二阶段）\n上
+ 海久事客场对阵青岛崂山啤酒\n比赛场馆：国信体育中心
+ 钻石体育馆（青岛）\n开球时间：北京时间 2026 年 12 月 3
+ 0 日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时
+ 区自动换算成本地时间。\n赛程、比分每日自动同步自 CB
+ A 官网（cbaleague.com），如有调整以官方为准。\n最后同步
+ ：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#
+ /matchDetail/100110621
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270101T113500Z
+DTEND:20270101T133500Z
+SUMMARY:🏀 上海久事 vs 北京首钢（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110674@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 21 轮（第二阶段）\n上
+ 海久事主场对阵北京首钢\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2027 年 1 月 1 日 19:35\n本日历时
+ 间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
+ 时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
+ ），如有调整以官方为准。\n最后同步：2026-10-20 00:15:05\n
+ 官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110674
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270103T113500Z
+DTEND:20270103T133500Z
+SUMMARY:🏀 上海久事 vs 广州智都集团（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110711@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 22 轮（第二阶段）\n上
+ 海久事主场对阵广州智都集团\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2027 年 1 月 3 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0711
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:黄龙体育中心体育馆\, 杭州
+DTSTART:20270106T113500Z
+DTEND:20270106T133500Z
+SUMMARY:🏀 浙江浙商证券 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110782@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 23 轮（第二阶段）\n上
+ 海久事客场对阵浙江浙商证券\n比赛场馆：黄龙体育中心
+ 体育馆（杭州）\n开球时间：北京时间 2027 年 1 月 6 日 19
+ :35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自动
+ 换算成本地时间。\n赛程、比分每日自动同步自 CBA 官网
+ （cbaleague.com），如有调整以官方为准。\n最后同步：2026-
+ 10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDe
+ tail/100110782
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:首钢园冰球馆\, 北京
+DTSTART:20270109T113500Z
+DTEND:20270109T133500Z
+SUMMARY:🏀 北京首钢 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110826@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 24 轮（第二阶段）\n上
+ 海久事客场对阵北京首钢\n比赛场馆：首钢园冰球馆（北
+ 京）\n开球时间：北京时间 2027 年 1 月 9 日 19:35\n本日历
+ 时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
+ 地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
+ com），如有调整以官方为准。\n最后同步：2026-10-20 00:15:0
+ 5\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011082
+ 6
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:乌鲁木齐奥体中心体育馆\, 乌鲁木齐
+DTSTART:20270111T120000Z
+DTEND:20270111T140000Z
+SUMMARY:🏀 新疆广汇能源 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110862@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 25 轮（第二阶段）\n上
+ 海久事客场对阵新疆广汇能源\n比赛场馆：乌鲁木齐奥体
+ 中心体育馆（乌鲁木齐）\n开球时间：北京时间 2027 年 1 
+ 月 11 日 20:00\n本日历时间以 UTC 存储，手机/电脑会按所
+ 在时区自动换算成本地时间。\n赛程、比分每日自动同步
+ 自 CBA 官网（cbaleague.com），如有调整以官方为准。\n最后
+ 同步：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/
+ data/#/matchDetail/100110862
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270114T113500Z
+DTEND:20270114T133500Z
+SUMMARY:🏀 上海久事 vs 青岛崂山啤酒（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110902@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 26 轮（第二阶段）\n上
+ 海久事主场对阵青岛崂山啤酒\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2027 年 1 月 14 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0902
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270116T113500Z
+DTEND:20270116T133500Z
+SUMMARY:🏀 上海久事 vs 辽宁本钢（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110936@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 27 轮（第二阶段）\n上
+ 海久事主场对阵辽宁本钢\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2027 年 1 月 16 日 19:35\n本日历时
+ 间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
+ 时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
+ ），如有调整以官方为准。\n最后同步：2026-10-20 00:15:05\n
+ 官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110936
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:平度奥体中心体育馆\, 青岛平度
+DTSTART:20270118T113500Z
+DTEND:20270118T133500Z
+SUMMARY:🏀 青岛崂山啤酒 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110582@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 28 轮（第二阶段）\n上
+ 海久事客场对阵青岛崂山啤酒\n比赛场馆：平度奥体中心
+ 体育馆（青岛平度）\n开球时间：北京时间 2027 年 1 月 18
+  日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时
+ 区自动换算成本地时间。\n赛程、比分每日自动同步自 CB
+ A 官网（cbaleague.com），如有调整以官方为准。\n最后同步
+ ：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#
+ /matchDetail/100110582
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:成都市温江区体育馆\, 成都
+DTSTART:20270120T113500Z
+DTEND:20270120T133500Z
+SUMMARY:🏀 四川锦城 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110622@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 29 轮（第二阶段）\n上
+ 海久事客场对阵四川锦城\n比赛场馆：成都市温江区体育
+ 馆（成都）\n开球时间：北京时间 2027 年 1 月 20 日 19:35\n
+ 本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
+ 算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
+ baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
+ 0 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail
+ /100110622
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270122T113500Z
+DTEND:20270122T133500Z
+SUMMARY:🏀 上海久事 vs 青岛崂山啤酒（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110660@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 30 轮（第二阶段）\n上
+ 海久事主场对阵青岛崂山啤酒\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2027 年 1 月 22 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0660
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:花都东风体育馆\, 广州
+DTSTART:20270124T113500Z
+DTEND:20270124T133500Z
+SUMMARY:🏀 广州智都集团 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110723@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 31 轮（第二阶段）\n上
+ 海久事客场对阵广州智都集团\n比赛场馆：花都东风体育
+ 馆（广州）\n开球时间：北京时间 2027 年 1 月 24 日 19:35\n
+ 本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
+ 算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
+ baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
+ 0 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail
+ /100110723
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270128T113500Z
+DTEND:20270128T133500Z
+SUMMARY:🏀 上海久事 vs 天津先行者（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110789@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 32 轮（第二阶段）\n上
+ 海久事主场对阵天津先行者\n比赛场馆：上海体育馆（上
+ 海）\n开球时间：北京时间 2027 年 1 月 28 日 19:35\n本日历
+ 时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
+ 地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
+ com），如有调整以官方为准。\n最后同步：2026-10-20 00:15:0
+ 5\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011078
+ 9
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:辽宁体育馆\, 沈阳
+DTSTART:20270130T113500Z
+DTEND:20270130T133500Z
+SUMMARY:🏀 辽宁本钢 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110833@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 33 轮（第二阶段）\n上
+ 海久事客场对阵辽宁本钢\n比赛场馆：辽宁体育馆（沈阳
+ ）\n开球时间：北京时间 2027 年 1 月 30 日 19:35\n本日历时
+ 间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
+ 时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
+ ），如有调整以官方为准。\n最后同步：2026-10-20 00:15:05\n
+ 官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110833
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:山西体育中心汾酒体育馆\, 太原
+DTSTART:20270201T113500Z
+DTEND:20270201T133500Z
+SUMMARY:🏀 山西汾酒 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110892@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 34 轮（第二阶段）\n上
+ 海久事客场对阵山西汾酒\n比赛场馆：山西体育中心汾酒
+ 体育馆（太原）\n开球时间：北京时间 2027 年 2 月 1 日 19
+ :35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自动
+ 换算成本地时间。\n赛程、比分每日自动同步自 CBA 官网
+ （cbaleague.com），如有调整以官方为准。\n最后同步：2026-
+ 10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDe
+ tail/100110892
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270310T113500Z
+DTEND:20270310T133500Z
+SUMMARY:🏀 上海久事 vs 新疆广汇能源（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110919@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 35 轮（第三阶段）\n上
+ 海久事主场对阵新疆广汇能源\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2027 年 3 月 10 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0919
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:南通体育会展中心体育馆\, 南通
+DTSTART:20270312T113500Z
+DTEND:20270312T133500Z
+SUMMARY:🏀 江苏肯帝亚 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110950@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 36 轮（第三阶段）\n上
+ 海久事客场对阵江苏肯帝亚\n比赛场馆：南通体育会展中
+ 心体育馆（南通）\n开球时间：北京时间 2027 年 3 月 12 
+ 日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区
+ 自动换算成本地时间。\n赛程、比分每日自动同步自 CBA 
+ 官网（cbaleague.com），如有调整以官方为准。\n最后同步
+ ：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#
+ /matchDetail/100110950
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:宁波市体育发展中心体育馆\, 宁波
+DTSTART:20270314T113500Z
+DTEND:20270314T133500Z
+SUMMARY:🏀 宁波町渥 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110563@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 37 轮（第三阶段）\n上
+ 海久事客场对阵宁波町渥\n比赛场馆：宁波市体育发展中
+ 心体育馆（宁波）\n开球时间：北京时间 2027 年 3 月 14 
+ 日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区
+ 自动换算成本地时间。\n赛程、比分每日自动同步自 CBA 
+ 官网（cbaleague.com），如有调整以官方为准。\n最后同步
+ ：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#
+ /matchDetail/100110563
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:深圳市体育中心体育馆\, 深圳
+DTSTART:20270316T113500Z
+DTEND:20270316T133500Z
+SUMMARY:🏀 深圳马可波罗 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110590@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 38 轮（第三阶段）\n上
+ 海久事客场对阵深圳马可波罗\n比赛场馆：深圳市体育中
+ 心体育馆（深圳）\n开球时间：北京时间 2027 年 3 月 16 
+ 日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区
+ 自动换算成本地时间。\n赛程、比分每日自动同步自 CBA 
+ 官网（cbaleague.com），如有调整以官方为准。\n最后同步
+ ：2026-10-20 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#
+ /matchDetail/100110590
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270320T113500Z
+DTEND:20270320T133500Z
+SUMMARY:🏀 上海久事 vs 北京控股（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110646@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 39 轮（第三阶段）\n上
+ 海久事主场对阵北京控股\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2027 年 3 月 20 日 19:35\n本日历时
+ 间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
+ 时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
+ ），如有调整以官方为准。\n最后同步：2026-10-20 00:15:05\n
+ 官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110646
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270322T113500Z
+DTEND:20270322T133500Z
+SUMMARY:🏀 上海久事 vs 山西汾酒（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110703@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 40 轮（第三阶段）\n上
+ 海久事主场对阵山西汾酒\n比赛场馆：上海体育馆（上海
+ ）\n开球时间：北京时间 2027 年 3 月 22 日 19:35\n本日历时
+ 间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
+ 时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
+ ），如有调整以官方为准。\n最后同步：2026-10-20 00:15:05\n
+ 官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110703
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:晋江祖昌体育馆\, 晋江
+DTSTART:20270324T113500Z
+DTEND:20270324T133500Z
+SUMMARY:🏀 福建晋江文旅 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110761@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 41 轮（第三阶段）\n上
+ 海久事客场对阵福建晋江文旅\n比赛场馆：晋江祖昌体育
+ 馆（晋江）\n开球时间：北京时间 2027 年 3 月 24 日 19:35\n
+ 本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
+ 算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
+ baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
+ 0 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail
+ /100110761
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:东莞银行篮球中心\, 东莞
+DTSTART:20270326T120000Z
+DTEND:20270326T140000Z
+SUMMARY:🏀 广东东阳光 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110805@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 42 轮（第三阶段）\n上
+ 海久事客场对阵广东东阳光\n比赛场馆：东莞银行篮球中
+ 心（东莞）\n开球时间：北京时间 2027 年 3 月 26 日 20:00\n
+ 本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
+ 算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
+ baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
+ 0 00:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail
+ /100110805
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270329T113500Z
+DTEND:20270329T133500Z
+SUMMARY:🏀 上海久事 vs 浙江稠州金租（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110876@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 43 轮（第三阶段）\n上
+ 海久事主场对阵浙江稠州金租\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2027 年 3 月 29 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0876
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270401T113500Z
+DTEND:20270401T133500Z
+SUMMARY:🏀 上海久事 vs 南京同曦宙光（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110930@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 44 轮（第三阶段）\n上
+ 海久事主场对阵南京同曦宙光\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2027 年 4 月 1 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 0930
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:长春市体育馆\, 长春
+DTSTART:20270403T113500Z
+DTEND:20270403T133500Z
+SUMMARY:🏀 长白山恩都里 vs 上海久事（客场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100110993@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 45 轮（第三阶段）\n上
+ 海久事客场对阵长白山恩都里\n比赛场馆：长春市体育馆
+ （长春）\n开球时间：北京时间 2027 年 4 月 3 日 19:35\n本
+ 日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
+ 成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
+ 0:15:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10
+ 0110993
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:20261019T161505Z
+LOCATION:上海体育馆\, 上海
+DTSTART:20270407T113500Z
+DTEND:20270407T133500Z
+SUMMARY:🏀 上海久事 vs 浙江浙商证券（主场）
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:cba-100111010@shanghai-sharks
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:CBA 2026-2027 赛季常规赛 第 46 轮（第三阶段）\n上
+ 海久事主场对阵浙江浙商证券\n比赛场馆：上海体育馆（
+ 上海）\n开球时间：北京时间 2027 年 4 月 7 日 19:35\n本日
+ 历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
+ 本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-20 00:1
+ 5:05\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/10011
+ 1010
+BEGIN:VALARM
+TRIGGER:-PT8H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
