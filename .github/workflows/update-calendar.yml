@@ -1,0 +1,60 @@
+name: update-calendar
+
+# 每天北京时间 06:15（UTC 22:15）自动同步 CBA 官网赛程，并把 ics 提交回仓库。
+# raw.githubusercontent.com 上的文件即是日历订阅源，无需任何服务器。
+on:
+  schedule:
+    - cron: '15 22 * * *'
+  workflow_dispatch:          # 支持手动触发
+  push:
+    branches: [main]
+    paths-ignore:             # 提交 ics 本身不触发新一轮
+      - 'public/**'
+      - 'matches.json'
+      - 'status.json'
+
+permissions:
+  contents: write             # 允许把生成的 ics 提交回仓库
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 抓取 CBA 官网并生成 ics
+        env:
+          # 可选：配置了 GIST_TOKEN secret 时，顺便把旧的 gist 订阅源也更新（保持旧链接可用）
+          GIST_ID: a4ec45bc5eee2ec7d4b6e04d8d023a35
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: python3 refresh.py
+
+      - name: 提交更新
+        run: |
+          git config user.name  "sharks-calendar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public matches.json status.json
+          if git diff --staged --quiet; then
+            echo "内容无变化，跳过提交"
+            exit 0
+          fi
+          SUMMARY=$(python3 -c "import json;d=json.load(open('status.json'));print(d.get('matches','?'))")
+          git commit -m "chore: 同步赛程（${SUMMARY} 场） $(date -u '+%Y-%m-%dT%H:%MZ')"
+          git push
+
+      - name: 输出订阅地址
+        run: |
+          echo "### 订阅地址（webcal）" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "webcal://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/public/shanghai-sharks-2026-2027.ics" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          python3 -c "import json;d=json.load(open('status.json'));print('本次同步场次：',d.get('matches'))" >> $GITHUB_STEP_SUMMARY
