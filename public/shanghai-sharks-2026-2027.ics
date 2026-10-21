@@ -6,14 +6,14 @@ X-WR-CALNAME:上海大鲨鱼 2026-2027 赛季
 X-WR-CALDESC:上海久事大鲨鱼 2026-2027 赛季全部比赛（季前赛
  、常规赛、俱乐部杯、季后赛），含对阵、场馆、开球
  时间与比分；每日自动同步自 CBA 官网。最后同步 2026-10-
- 20 09:06:13（北京时间）
+ 21 08:38:22（北京时间）
 X-WR-TIMEZONE:Asia/Shanghai
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:高县赛区体育馆（场馆待定）\, 四川宜宾高县
 DTSTART:20261009T113000Z
 DTEND:20261009T133000Z
@@ -30,12 +30,12 @@ DESCRIPTION:CBA 2026-2027 赛季季前赛（高县站）\n最终比分：
  北京时间 2026 年 10 月 9 日 19:30\n本日历时间以 UTC 存储，
  手机/电脑会按所在时区自动换算成本地时间。\n赛程、
  比分每日自动同步自 CBA 官网（cbaleague.com），如有调整
- 以官方为准。\n最后同步：2026-10-20 09:06:13（北京时间）\n
+ 以官方为准。\n最后同步：2026-10-21 08:38:22（北京时间）\n
  官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110447
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:高县赛区体育馆（场馆待定）\, 四川宜宾高县
 DTSTART:20261010T113000Z
 DTEND:20261010T133000Z
@@ -52,13 +52,13 @@ DESCRIPTION:CBA 2026-2027 赛季季前赛（高县站）\n最终比分：
  北京时间 2026 年 10 月 10 日 19:30\n本日历时间以 UTC 存储
  ，手机/电脑会按所在时区自动换算成本地时间。\n赛程
  、比分每日自动同步自 CBA 官网（cbaleague.com），如有调
- 整以官方为准。\n最后同步：2026-10-20 09:06:13（北京时间
+ 整以官方为准。\n最后同步：2026-10-21 08:38:22（北京时间
  ）\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110
  449
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:高县赛区体育馆（场馆待定）\, 四川宜宾高县
 DTSTART:20261011T070000Z
 DTEND:20261011T090000Z
@@ -76,13 +76,13 @@ DESCRIPTION:CBA 2026-2027 赛季季前赛（高县站）\n最终比分：
  间：北京时间 2026 年 10 月 11 日 15:00\n本日历时间以 UTC 
  存储，手机/电脑会按所在时区自动换算成本地时间。\n
  赛程、比分每日自动同步自 CBA 官网（cbaleague.com），如
- 有调整以官方为准。\n最后同步：2026-10-20 09:06:13（北京
+ 有调整以官方为准。\n最后同步：2026-10-21 08:38:22（北京
  时间）\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/
  100110450
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261016T113500Z
 DTEND:20261016T133500Z
@@ -99,12 +99,12 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 1 轮（第一阶段）\n最
  年 10 月 16 日 19:35\n本日历时间以 UTC 存储，手机/电脑会
  按所在时区自动换算成本地时间。\n赛程、比分每日自动
  同步自 CBA 官网（cbaleague.com），如有调整以官方为准。\n
- 最后同步：2026-10-20 09:06:13（北京时间）\n官方比赛页：ht
+ 最后同步：2026-10-21 08:38:22（北京时间）\n官方比赛页：ht
  tps://www.cbaleague.com/data/#/matchDetail/100110655
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:国家奥林匹克体育中心体育馆\, 北京
 DTSTART:20261019T113500Z
 DTEND:20261019T133500Z
@@ -121,13 +121,13 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 2 轮（第一阶段）\n最
  北京时间 2026 年 10 月 19 日 19:35\n本日历时间以 UTC 存储
  ，手机/电脑会按所在时区自动换算成本地时间。\n赛程
  、比分每日自动同步自 CBA 官网（cbaleague.com），如有调
- 整以官方为准。\n最后同步：2026-10-20 09:06:13（北京时间
+ 整以官方为准。\n最后同步：2026-10-21 08:38:22（北京时间
  ）\n官方比赛页：https://www.cbaleague.com/data/#/matchDetail/100110
  739
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:山西体育中心汾酒体育馆\, 太原
 DTSTART:20261022T113500Z
 DTEND:20261022T133500Z
@@ -144,7 +144,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 3 轮（第一阶段）\n上
  19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自
  动换算成本地时间。\n赛程、比分每日自动同步自 CBA 官
  网（cbaleague.com），如有调整以官方为准。\n最后同步：20
- 26-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cbaleag
+ 26-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cbaleag
  ue.com/data/#/matchDetail/100110839
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -159,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261024T113500Z
 DTEND:20261024T133500Z
@@ -175,8 +175,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 4 轮（第一阶段）\n上
  上海）\n开球时间：北京时间 2026 年 10 月 24 日 19:35\n本
  日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
  成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
- eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
- 9:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-21 0
+ 8:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
  a/#/matchDetail/100110899
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -191,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261026T113500Z
 DTEND:20261026T133500Z
@@ -207,8 +207,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 5 轮（第一阶段）\n上
  海）\n开球时间：北京时间 2026 年 10 月 26 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110946
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -223,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:义乌梅湖体育中心体育馆\, 义乌
 DTSTART:20261030T113500Z
 DTEND:20261030T133500Z
@@ -240,7 +240,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 6 轮（第一阶段）\n上
  0 日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时
  区自动换算成本地时间。\n赛程、比分每日自动同步自 CB
  A 官网（cbaleague.com），如有调整以官方为准。\n最后同步
- ：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cb
+ ：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cb
  aleague.com/data/#/matchDetail/100110973
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -255,7 +255,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261101T113500Z
 DTEND:20261101T133500Z
@@ -271,8 +271,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 7 轮（第一阶段）\n上
  上海）\n开球时间：北京时间 2026 年 11 月 1 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110979
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -287,7 +287,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261103T113500Z
 DTEND:20261103T133500Z
@@ -303,8 +303,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 8 轮（第一阶段）\n上
  上海）\n开球时间：北京时间 2026 年 11 月 3 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110998
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -319,7 +319,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:洪山体育馆\, 武汉
 DTSTART:20261119T120000Z
 DTEND:20261119T140000Z
@@ -335,8 +335,8 @@ DESCRIPTION:CBA 2026-2027 赛季俱乐部杯·小组赛（B组上半区）
  武汉）\n开球时间：北京时间 2026 年 11 月 19 日 20:00\n本
  日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
  成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
- eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
- 9:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-21 0
+ 8:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
  a/#/matchDetail/100111265
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -351,7 +351,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:洪山体育馆\, 武汉
 DTSTART:20261120T120000Z
 DTEND:20261120T140000Z
@@ -368,7 +368,7 @@ DESCRIPTION:CBA 2026-2027 赛季俱乐部杯·小组赛（B组上半区）
  \n本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
  算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
  baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
- 0 09:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/
+ 1 08:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/
  data/#/matchDetail/100111271
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -383,7 +383,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:乌鲁木齐奥体中心体育馆\, 乌鲁木齐
 DTSTART:20261204T120000Z
 DTEND:20261204T140000Z
@@ -400,7 +400,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 9 轮（第二阶段）\n上
   月 4 日 20:00\n本日历时间以 UTC 存储，手机/电脑会按所
  在时区自动换算成本地时间。\n赛程、比分每日自动同步
  自 CBA 官网（cbaleague.com），如有调整以官方为准。\n最后
- 同步：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://
+ 同步：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://
  www.cbaleague.com/data/#/matchDetail/100111019
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -415,7 +415,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:东丽体育馆\, 天津
 DTSTART:20261207T113500Z
 DTEND:20261207T133500Z
@@ -431,8 +431,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 10 轮（第二阶段）\n上
  津）\n开球时间：北京时间 2026 年 12 月 7 日 19:35\n本日历
  时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
  地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
- com），如有调整以官方为准。\n最后同步：2026-10-20 09:06:1
- 3（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
+ com），如有调整以官方为准。\n最后同步：2026-10-21 08:38:2
+ 2（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
  tchDetail/100110600
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -447,7 +447,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261209T113500Z
 DTEND:20261209T133500Z
@@ -463,7 +463,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 11 轮（第二阶段）\n上
  ）\n开球时间：北京时间 2026 年 12 月 9 日 19:35\n本日历时
  间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
  时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
- ），如有调整以官方为准。\n最后同步：2026-10-20 09:06:13
+ ），如有调整以官方为准。\n最后同步：2026-10-21 08:38:22
  （北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/mat
  chDetail/100110642
 BEGIN:VALARM
@@ -479,7 +479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:山东高速篮球馆\, 济南
 DTSTART:20261211T113500Z
 DTEND:20261211T133500Z
@@ -495,8 +495,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 12 轮（第二阶段）\n上
  济南）\n开球时间：北京时间 2026 年 12 月 11 日 19:35\n本
  日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
  成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
- eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
- 9:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-21 0
+ 8:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
  a/#/matchDetail/100110659
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -511,7 +511,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:江宁体育中心体育馆\, 南京
 DTSTART:20261213T113500Z
 DTEND:20261213T133500Z
@@ -528,7 +528,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 13 轮（第二阶段）\n上
  19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自
  动换算成本地时间。\n赛程、比分每日自动同步自 CBA 官
  网（cbaleague.com），如有调整以官方为准。\n最后同步：20
- 26-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cbaleag
+ 26-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cbaleag
  ue.com/data/#/matchDetail/100110685
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -543,7 +543,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261216T113500Z
 DTEND:20261216T133500Z
@@ -559,8 +559,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 14 轮（第二阶段）\n上
  ）\n开球时间：北京时间 2026 年 12 月 16 日 19:35\n本日历
  时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
  地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
- com），如有调整以官方为准。\n最后同步：2026-10-20 09:06:1
- 3（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
+ com），如有调整以官方为准。\n最后同步：2026-10-21 08:38:2
+ 2（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
  tchDetail/100110742
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -575,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:江宁体育中心体育馆\, 南京
 DTSTART:20261218T113500Z
 DTEND:20261218T133500Z
@@ -592,7 +592,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 15 轮（第二阶段）\n上
  19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自
  动换算成本地时间。\n赛程、比分每日自动同步自 CBA 官
  网（cbaleague.com），如有调整以官方为准。\n最后同步：20
- 26-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cbaleag
+ 26-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cbaleag
  ue.com/data/#/matchDetail/100110769
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -607,7 +607,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261220T113500Z
 DTEND:20261220T133500Z
@@ -623,8 +623,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 16 轮（第二阶段）\n上
  海）\n开球时间：北京时间 2026 年 12 月 20 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110793
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -639,7 +639,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261223T113500Z
 DTEND:20261223T133500Z
@@ -655,8 +655,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 17 轮（第二阶段）\n上
  ）\n开球时间：北京时间 2026 年 12 月 23 日 19:35\n本日历
  时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
  地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
- com），如有调整以官方为准。\n最后同步：2026-10-20 09:06:1
- 3（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
+ com），如有调整以官方为准。\n最后同步：2026-10-21 08:38:2
+ 2（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
  tchDetail/100110864
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -671,7 +671,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261225T113500Z
 DTEND:20261225T133500Z
@@ -687,8 +687,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 18 轮（第二阶段）\n上
  ）\n开球时间：北京时间 2026 年 12 月 25 日 19:35\n本日历
  时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
  地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
- com），如有调整以官方为准。\n最后同步：2026-10-20 09:06:1
- 3（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
+ com），如有调整以官方为准。\n最后同步：2026-10-21 08:38:2
+ 2（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
  tchDetail/100110893
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -703,7 +703,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20261227T113500Z
 DTEND:20261227T133500Z
@@ -719,8 +719,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 19 轮（第二阶段）\n上
  上海）\n开球时间：北京时间 2026 年 12 月 27 日 19:35\n本
  日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
  成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
- eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
- 9:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-21 0
+ 8:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
  a/#/matchDetail/100110575
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -735,7 +735,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:国信体育中心钻石体育馆\, 青岛
 DTSTART:20261230T113500Z
 DTEND:20261230T133500Z
@@ -752,7 +752,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 20 轮（第二阶段）\n上
  0 日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时
  区自动换算成本地时间。\n赛程、比分每日自动同步自 CB
  A 官网（cbaleague.com），如有调整以官方为准。\n最后同步
- ：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cb
+ ：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cb
  aleague.com/data/#/matchDetail/100110621
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -767,7 +767,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270101T113500Z
 DTEND:20270101T133500Z
@@ -783,7 +783,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 21 轮（第二阶段）\n上
  ）\n开球时间：北京时间 2027 年 1 月 1 日 19:35\n本日历时
  间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
  时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
- ），如有调整以官方为准。\n最后同步：2026-10-20 09:06:13
+ ），如有调整以官方为准。\n最后同步：2026-10-21 08:38:22
  （北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/mat
  chDetail/100110674
 BEGIN:VALARM
@@ -799,7 +799,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270103T113500Z
 DTEND:20270103T133500Z
@@ -815,8 +815,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 22 轮（第二阶段）\n上
  上海）\n开球时间：北京时间 2027 年 1 月 3 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110711
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -831,7 +831,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:黄龙体育中心体育馆\, 杭州
 DTSTART:20270106T113500Z
 DTEND:20270106T133500Z
@@ -848,7 +848,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 23 轮（第二阶段）\n上
  :35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自动
  换算成本地时间。\n赛程、比分每日自动同步自 CBA 官网
  （cbaleague.com），如有调整以官方为准。\n最后同步：2026-
- 10-20 09:06:13（北京时间）\n官方比赛页：https://www.cbaleague.
+ 10-21 08:38:22（北京时间）\n官方比赛页：https://www.cbaleague.
  com/data/#/matchDetail/100110782
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -863,7 +863,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:首钢园冰球馆\, 北京
 DTSTART:20270109T113500Z
 DTEND:20270109T133500Z
@@ -879,8 +879,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 24 轮（第二阶段）\n上
  京）\n开球时间：北京时间 2027 年 1 月 9 日 19:35\n本日历
  时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
  地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
- com），如有调整以官方为准。\n最后同步：2026-10-20 09:06:1
- 3（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
+ com），如有调整以官方为准。\n最后同步：2026-10-21 08:38:2
+ 2（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
  tchDetail/100110826
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -895,7 +895,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:乌鲁木齐奥体中心体育馆\, 乌鲁木齐
 DTSTART:20270111T120000Z
 DTEND:20270111T140000Z
@@ -912,7 +912,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 25 轮（第二阶段）\n上
  月 11 日 20:00\n本日历时间以 UTC 存储，手机/电脑会按所
  在时区自动换算成本地时间。\n赛程、比分每日自动同步
  自 CBA 官网（cbaleague.com），如有调整以官方为准。\n最后
- 同步：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://
+ 同步：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://
  www.cbaleague.com/data/#/matchDetail/100110862
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -927,7 +927,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270114T113500Z
 DTEND:20270114T133500Z
@@ -943,8 +943,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 26 轮（第二阶段）\n上
  上海）\n开球时间：北京时间 2027 年 1 月 14 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110902
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -959,7 +959,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270116T113500Z
 DTEND:20270116T133500Z
@@ -975,7 +975,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 27 轮（第二阶段）\n上
  ）\n开球时间：北京时间 2027 年 1 月 16 日 19:35\n本日历时
  间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
  时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
- ），如有调整以官方为准。\n最后同步：2026-10-20 09:06:13
+ ），如有调整以官方为准。\n最后同步：2026-10-21 08:38:22
  （北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/mat
  chDetail/100110936
 BEGIN:VALARM
@@ -991,7 +991,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:平度奥体中心体育馆\, 青岛平度
 DTSTART:20270118T113500Z
 DTEND:20270118T133500Z
@@ -1008,7 +1008,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 28 轮（第二阶段）\n上
   日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时
  区自动换算成本地时间。\n赛程、比分每日自动同步自 CB
  A 官网（cbaleague.com），如有调整以官方为准。\n最后同步
- ：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cb
+ ：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cb
  aleague.com/data/#/matchDetail/100110582
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1023,7 +1023,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:成都市温江区体育馆\, 成都
 DTSTART:20270120T113500Z
 DTEND:20270120T133500Z
@@ -1040,7 +1040,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 29 轮（第二阶段）\n上
  本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
  算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
  baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
- 0 09:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/
+ 1 08:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/
  data/#/matchDetail/100110622
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1055,7 +1055,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270122T113500Z
 DTEND:20270122T133500Z
@@ -1071,8 +1071,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 30 轮（第二阶段）\n上
  上海）\n开球时间：北京时间 2027 年 1 月 22 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110660
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1087,7 +1087,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:花都东风体育馆\, 广州
 DTSTART:20270124T113500Z
 DTEND:20270124T133500Z
@@ -1104,7 +1104,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 31 轮（第二阶段）\n上
  本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
  算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
  baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
- 0 09:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/
+ 1 08:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/
  data/#/matchDetail/100110723
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1119,7 +1119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270128T113500Z
 DTEND:20270128T133500Z
@@ -1135,8 +1135,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 32 轮（第二阶段）\n上
  海）\n开球时间：北京时间 2027 年 1 月 28 日 19:35\n本日历
  时间以 UTC 存储，手机/电脑会按所在时区自动换算成本
  地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.
- com），如有调整以官方为准。\n最后同步：2026-10-20 09:06:1
- 3（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
+ com），如有调整以官方为准。\n最后同步：2026-10-21 08:38:2
+ 2（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/ma
  tchDetail/100110789
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1151,7 +1151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:辽宁体育馆\, 沈阳
 DTSTART:20270130T113500Z
 DTEND:20270130T133500Z
@@ -1167,7 +1167,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 33 轮（第二阶段）\n上
  ）\n开球时间：北京时间 2027 年 1 月 30 日 19:35\n本日历时
  间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
  时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
- ），如有调整以官方为准。\n最后同步：2026-10-20 09:06:13
+ ），如有调整以官方为准。\n最后同步：2026-10-21 08:38:22
  （北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/mat
  chDetail/100110833
 BEGIN:VALARM
@@ -1183,7 +1183,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:山西体育中心汾酒体育馆\, 太原
 DTSTART:20270201T113500Z
 DTEND:20270201T133500Z
@@ -1200,7 +1200,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 34 轮（第二阶段）\n上
  :35\n本日历时间以 UTC 存储，手机/电脑会按所在时区自动
  换算成本地时间。\n赛程、比分每日自动同步自 CBA 官网
  （cbaleague.com），如有调整以官方为准。\n最后同步：2026-
- 10-20 09:06:13（北京时间）\n官方比赛页：https://www.cbaleague.
+ 10-21 08:38:22（北京时间）\n官方比赛页：https://www.cbaleague.
  com/data/#/matchDetail/100110892
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1215,7 +1215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270310T113500Z
 DTEND:20270310T133500Z
@@ -1231,8 +1231,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 35 轮（第三阶段）\n上
  上海）\n开球时间：北京时间 2027 年 3 月 10 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110919
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1247,7 +1247,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:南通体育会展中心体育馆\, 南通
 DTSTART:20270312T113500Z
 DTEND:20270312T133500Z
@@ -1264,7 +1264,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 36 轮（第三阶段）\n上
  日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区
  自动换算成本地时间。\n赛程、比分每日自动同步自 CBA 
  官网（cbaleague.com），如有调整以官方为准。\n最后同步
- ：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cb
+ ：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cb
  aleague.com/data/#/matchDetail/100110950
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1279,7 +1279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:宁波市体育发展中心体育馆\, 宁波
 DTSTART:20270314T113500Z
 DTEND:20270314T133500Z
@@ -1296,7 +1296,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 37 轮（第三阶段）\n上
  日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区
  自动换算成本地时间。\n赛程、比分每日自动同步自 CBA 
  官网（cbaleague.com），如有调整以官方为准。\n最后同步
- ：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cb
+ ：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cb
  aleague.com/data/#/matchDetail/100110563
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1311,7 +1311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:深圳市体育中心体育馆\, 深圳
 DTSTART:20270316T113500Z
 DTEND:20270316T133500Z
@@ -1328,7 +1328,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 38 轮（第三阶段）\n上
  日 19:35\n本日历时间以 UTC 存储，手机/电脑会按所在时区
  自动换算成本地时间。\n赛程、比分每日自动同步自 CBA 
  官网（cbaleague.com），如有调整以官方为准。\n最后同步
- ：2026-10-20 09:06:13（北京时间）\n官方比赛页：https://www.cb
+ ：2026-10-21 08:38:22（北京时间）\n官方比赛页：https://www.cb
  aleague.com/data/#/matchDetail/100110590
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1343,7 +1343,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270320T113500Z
 DTEND:20270320T133500Z
@@ -1359,7 +1359,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 39 轮（第三阶段）\n上
  ）\n开球时间：北京时间 2027 年 3 月 20 日 19:35\n本日历时
  间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
  时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
- ），如有调整以官方为准。\n最后同步：2026-10-20 09:06:13
+ ），如有调整以官方为准。\n最后同步：2026-10-21 08:38:22
  （北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/mat
  chDetail/100110646
 BEGIN:VALARM
@@ -1375,7 +1375,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270322T113500Z
 DTEND:20270322T133500Z
@@ -1391,7 +1391,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 40 轮（第三阶段）\n上
  ）\n开球时间：北京时间 2027 年 3 月 22 日 19:35\n本日历时
  间以 UTC 存储，手机/电脑会按所在时区自动换算成本地
  时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleague.com
- ），如有调整以官方为准。\n最后同步：2026-10-20 09:06:13
+ ），如有调整以官方为准。\n最后同步：2026-10-21 08:38:22
  （北京时间）\n官方比赛页：https://www.cbaleague.com/data/#/mat
  chDetail/100110703
 BEGIN:VALARM
@@ -1407,7 +1407,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:晋江祖昌体育馆\, 晋江
 DTSTART:20270324T113500Z
 DTEND:20270324T133500Z
@@ -1424,7 +1424,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 41 轮（第三阶段）\n上
  本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
  算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
  baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
- 0 09:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/
+ 1 08:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/
  data/#/matchDetail/100110761
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1439,7 +1439,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:东莞银行篮球中心\, 东莞
 DTSTART:20270326T120000Z
 DTEND:20270326T140000Z
@@ -1456,7 +1456,7 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 42 轮（第三阶段）\n上
  本日历时间以 UTC 存储，手机/电脑会按所在时区自动换
  算成本地时间。\n赛程、比分每日自动同步自 CBA 官网（c
  baleague.com），如有调整以官方为准。\n最后同步：2026-10-2
- 0 09:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/
+ 1 08:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/
  data/#/matchDetail/100110805
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1471,7 +1471,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270329T113500Z
 DTEND:20270329T133500Z
@@ -1487,8 +1487,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 43 轮（第三阶段）\n上
  上海）\n开球时间：北京时间 2027 年 3 月 29 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110876
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1503,7 +1503,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270401T113500Z
 DTEND:20270401T133500Z
@@ -1519,8 +1519,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 44 轮（第三阶段）\n上
  上海）\n开球时间：北京时间 2027 年 4 月 1 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100110930
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1535,7 +1535,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:长春市体育馆\, 长春
 DTSTART:20270403T113500Z
 DTEND:20270403T133500Z
@@ -1551,8 +1551,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 45 轮（第三阶段）\n上
  （长春）\n开球时间：北京时间 2027 年 4 月 3 日 19:35\n本
  日历时间以 UTC 存储，手机/电脑会按所在时区自动换算
  成本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbal
- eague.com），如有调整以官方为准。\n最后同步：2026-10-20 0
- 9:06:13（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
+ eague.com），如有调整以官方为准。\n最后同步：2026-10-21 0
+ 8:38:22（北京时间）\n官方比赛页：https://www.cbaleague.com/dat
  a/#/matchDetail/100110993
 BEGIN:VALARM
 TRIGGER:-PT8H
@@ -1567,7 +1567,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
-DTSTAMP:20261020T010613Z
+DTSTAMP:20261021T003822Z
 LOCATION:上海体育馆\, 上海
 DTSTART:20270407T113500Z
 DTEND:20270407T133500Z
@@ -1583,8 +1583,8 @@ DESCRIPTION:CBA 2026-2027 赛季常规赛 第 46 轮（第三阶段）\n上
  上海）\n开球时间：北京时间 2027 年 4 月 7 日 19:35\n本日
  历时间以 UTC 存储，手机/电脑会按所在时区自动换算成
  本地时间。\n赛程、比分每日自动同步自 CBA 官网（cbaleag
- ue.com），如有调整以官方为准。\n最后同步：2026-10-20 09:0
- 6:13（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
+ ue.com），如有调整以官方为准。\n最后同步：2026-10-21 08:3
+ 8:22（北京时间）\n官方比赛页：https://www.cbaleague.com/data/#
  /matchDetail/100111010
 BEGIN:VALARM
 TRIGGER:-PT8H
