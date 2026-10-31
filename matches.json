@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T01:58:31Z",
- "generated_at_local": "2026-10-30 09:58:31",
+ "generated_at": "2026-10-31T01:36:46Z",
+ "generated_at_local": "2026-10-31 09:36:46",
  "team": {
   "id": 29125,
   "name": "上海久事",
@@ -211,12 +211,12 @@
    "us": "上海久事",
    "them": "浙江稠州金租",
    "them_id": 29140,
-   "venue": "义乌梅湖体育馆",
+   "venue": "义乌梅湖体育中心体育馆",
    "city": "义乌",
-   "status": "scheduled",
-   "us_score": null,
-   "them_score": null,
-   "result": null,
+   "status": "final",
+   "us_score": 88,
+   "them_score": 81,
+   "result": "胜",
    "source": "portal",
    "source_url": "https://www.cbaleague.com/data/#/matchDetail/100110973"
   },
