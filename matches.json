@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T01:12:48Z",
- "generated_at_local": "2026-11-01 09:12:48",
+ "generated_at": "2026-11-02T01:30:27Z",
+ "generated_at_local": "2026-11-02 09:30:27",
  "team": {
   "id": 29125,
   "name": "上海久事",
@@ -236,10 +236,10 @@
    "them_id": 29133,
    "venue": "上海体育馆",
    "city": "上海",
-   "status": "scheduled",
-   "us_score": null,
-   "them_score": null,
-   "result": null,
+   "status": "final",
+   "us_score": 100,
+   "them_score": 84,
+   "result": "胜",
    "source": "portal",
    "source_url": "https://www.cbaleague.com/data/#/matchDetail/100110979"
   },
