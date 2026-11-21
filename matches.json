@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T03:19:18Z",
- "generated_at_local": "2026-11-20 11:19:18",
+ "generated_at": "2026-11-21T03:14:12Z",
+ "generated_at_local": "2026-11-21 11:14:12",
  "team": {
   "id": 29125,
   "name": "上海久事",
@@ -10,7 +10,7 @@
  "counts": {
   "季前赛": 3,
   "常规赛": 46,
-  "俱乐部杯小组赛": 2
+  "俱乐部杯小组赛": 3
  },
  "matches": [
   {
@@ -305,12 +305,35 @@
    "them_id": "29135",
    "venue": "洪山体育馆",
    "city": "武汉",
+   "status": "final",
+   "us_score": 85,
+   "them_score": 102,
+   "result": "负",
+   "source": "cup",
+   "source_url": "https://www.cbaleague.com/data/#/matchDetail/100111271"
+  },
+  {
+   "schedule_id": 100111741,
+   "competition": "俱乐部杯小组赛",
+   "stage": "B组淘汰赛",
+   "round": null,
+   "round_text": "",
+   "date_local": "2026-11-21",
+   "time_local": "20:00",
+   "start_utc": "20261121T120000Z",
+   "end_utc": "20261121T140000Z",
+   "is_home": true,
+   "us": "上海久事",
+   "them": "江西大谦",
+   "them_id": "100111251",
+   "venue": "洪山体育馆",
+   "city": "武汉",
    "status": "scheduled",
    "us_score": null,
    "them_score": null,
    "result": null,
    "source": "cup",
-   "source_url": "https://www.cbaleague.com/data/#/matchDetail/100111271"
+   "source_url": "https://www.cbaleague.com/data/#/matchDetail/100111741"
   },
   {
    "schedule_id": 100111019,
