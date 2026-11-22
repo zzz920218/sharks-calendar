@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T03:14:12Z",
- "generated_at_local": "2026-11-21 11:14:12",
+ "generated_at": "2026-11-22T02:15:54Z",
+ "generated_at_local": "2026-11-22 10:15:54",
  "team": {
   "id": 29125,
   "name": "上海久事",
@@ -328,10 +328,10 @@
    "them_id": "100111251",
    "venue": "洪山体育馆",
    "city": "武汉",
-   "status": "scheduled",
-   "us_score": null,
-   "them_score": null,
-   "result": null,
+   "status": "final",
+   "us_score": 96,
+   "them_score": 99,
+   "result": "负",
    "source": "cup",
    "source_url": "https://www.cbaleague.com/data/#/matchDetail/100111741"
   },
